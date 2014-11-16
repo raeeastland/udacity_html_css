@@ -1,0 +1,26 @@
+* {
+   /* outline: 1px solid red !important; */
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+.title {
+	margin: 10px;
+	font-family: Arial;
+	background-color: #33BEBE;
+}
+.image {
+	margin: 10px;
+	max-width: 460px;
+}
+.description{
+	margin: 10px;
+	max-width: 705px;
+}
